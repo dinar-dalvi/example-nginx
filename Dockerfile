@@ -1,5 +1,5 @@
 FROM phusion/baseimage
-MAINTAINER dinar dinar@applatix.com
+MAINTAINER dinar dalvi
 
 CMD ["/sbin/my_init"]
 
